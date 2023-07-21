@@ -5,7 +5,7 @@
 
 ## About The Project
 
-A web based image editor for all your editing needs. Use stunning filters and other tools to create and share amazing pics!
+A web asset management editor for all your management needs. Use stunning filters and other tools to create and share amazing digital assets!
 
 ## Features
 
@@ -13,6 +13,9 @@ A web based image editor for all your editing needs. Use stunning filters and ot
 - Crop, Rotate, and Resize
 - Adjust Exposure
 - Blur Filter
+- Overlay
+- Frames(padding)
+
 - And Much More!
 
 ## Tech Stack
